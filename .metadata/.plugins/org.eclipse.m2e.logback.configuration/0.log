@@ -1,0 +1,9 @@
+2016-06-24 09:41:50,582 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sd:quizEnsino:0.0.1-SNAPSHOT @ C:\_desenv\quizEnsino\resteasy\pom.xml.
+2016-06-24 09:41:56,173 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /resteasy/src/main/java
+2016-06-24 09:41:56,174 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /resteasy/src/main/resources
+2016-06-24 09:41:56,175 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /resteasy/src/test/java
+2016-06-24 09:41:57,172 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 17 sec
+2016-06-24 09:42:04,123 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-24 09:42:04,147 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-06-24 09:42:04,183 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-24 09:42:04,186 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\_desenv\quizEnsino\resteasy\src\test\resources
