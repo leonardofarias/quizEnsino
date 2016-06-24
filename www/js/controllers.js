@@ -5,6 +5,7 @@ angular.module('app.controllers', [])
   $scope.onePlayer = function(){
     $state.go('tabsController.single');
   }
+  console.log('teste');
 
 })
 
